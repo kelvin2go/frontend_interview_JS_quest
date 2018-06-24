@@ -1,4 +1,4 @@
-# frontend_interview_JS_quest
+# Frontend_Interview_JS_quest
 
 [Trello](https://trello.com/) is a collaborative tool that organizes tasks into Kanban style. It is good for an overview of the project but difficult to keep track of one's tasks when there are too many boards / cards assigned.
 
@@ -19,8 +19,9 @@ Your solution will be assessed on:
   - show what have modify for the production build for webpack configuration 
 
 Bonus:
-- preferred in Vuejs, Reactjs
-- Material Design (css or components library)
+- preferred framework on Vuejs, Reactjs
+- Material Design scss(css or components library)
+- follow one of the ESlint style
 
 You are free to use any dialects of JavaScript -- such as ES6, CoffeeScript, LiveScript, TypeScript, Haste, etc. You are also encouraged to use latest frameworks 
 
